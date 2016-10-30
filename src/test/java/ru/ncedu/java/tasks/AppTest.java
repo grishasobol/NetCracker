@@ -3,6 +3,7 @@ package ru.ncedu.java.tasks;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
+import  ru.ncedu.java.tasks.Phrase;
 
 /**
  * Unit test for simple App.
